@@ -13,7 +13,7 @@
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree at Catawba College in Salisbury, North Carolina
   <br>
-  💻 I am passionate about emerging technologies and love writing code | I have worked for Oracle in the past😊
+  💻 I am passionate about emerging technologies and love writing code | I have worked for Oracle in the past
   <br>
   📚 I am a full-stack developer and have experience with cloud, Docker, and Kubernetes
   <br>
