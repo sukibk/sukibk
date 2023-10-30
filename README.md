@@ -10,7 +10,6 @@
 ###  <p align="center"><img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:</p>
 <p align="center">
   <br>
-  <br>
   👨‍🎓 Bachelors Degree: I'm currently enrolled in Computer Science program at Catawba College in Salisbury, North Carolina
   <br>
   💻 I am passionate about emerging technologies and love writing code | I have worked for Oracle in the past
