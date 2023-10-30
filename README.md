@@ -82,11 +82,11 @@
 <!--       <td align="center" height="121" width="121">
      <a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="48" height="48" style="max-width: 100%;"> </a>
       <br><strong>Redis</strong>
-    </td>
+    </td> -->
       <td align="center" height="121" width="121">
       <a href="https://camo.githubusercontent.com/5e264dc8fcb694c4183413c371048cfb251b0e8ee84b64a0e8ee76750718ca50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" rel="nofollow"><img src="https://camo.githubusercontent.com/5e264dc8fcb694c4183413c371048cfb251b0e8ee84b64a0e8ee76750718ca50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" width="48" height="48" alt="Firebase" style="max-width: 100%;"></a>
       <br><strong>Firebase</strong>
-    </td> -->
+    </td>
     
   </tr>
 </tbody></table>
