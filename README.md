@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-<h2 align="center"><img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:</h2>
+<h2 align="center"><img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me: </h2>
 <p align="center">
   <br>
   👨‍🎓 Bachelors Degree: I'm currently enrolled in Computer Science program at Catawba College in Salisbury, North Carolina
