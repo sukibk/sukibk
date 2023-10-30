@@ -34,7 +34,7 @@
   <img title="Express" height="25" src="images/express.svg">
   <img title="React" height="25" src="images/react-original.svg">
   <img title="NextJS" height="25" src="images/nextjs.svg">
-  <img title="NodeJs" height="25" src="images/nodejs.png">
+  <img title="NodeJs" height="25" src="images/node-js.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
