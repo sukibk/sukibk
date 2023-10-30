@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/sukibk" alt="sukibk">    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sukibk/sukibk" alt="sukibk">    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
