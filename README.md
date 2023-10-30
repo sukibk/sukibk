@@ -32,7 +32,7 @@
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
   <img title="Express" height="25" src="images/express.svg">
-  <img title="React" height="25" src="images/react.svg">
+  <img title="React" height="25" src="images/react-original.svg">
   <img title="NextJS" height="25" src="images/nextjs.svg">
   <img title="NodeJs" height="25" src="images/nodejs.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
