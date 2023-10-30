@@ -27,7 +27,7 @@
   <a href="https://t.me/sukibk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><be>
-<center><table>
+<table style="width:80%; margin:0 auto;">
   <tbody><tr>
         <td align="center" height="121" width="121">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"> </a>
@@ -89,7 +89,7 @@
     </td>
     
   </tr>
-</tbody></table></center>
+</tbody></table>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
