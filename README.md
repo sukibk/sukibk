@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-<p align="center"> ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me</p>:
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   <br>
   <br>
