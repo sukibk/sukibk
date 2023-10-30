@@ -11,7 +11,7 @@
 <p align="center">
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree at Catawba College in Salisbury, North Carolina
+  👨‍🎓 Bachelors Degree: I'm currently enrolled in Computer Science program at Catawba College in Salisbury, North Carolina
   <br>
   💻 I am passionate about emerging technologies and love writing code | I have worked for Oracle in the past
   <br>
