@@ -116,6 +116,50 @@
       <br><strong>Firebase</strong>
     </td>
   </tr>
+  <tr>
+    <!-- AWS -->
+    <td align="center" height="121" width="121">
+      <a href="https://aws.amazon.com/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>AWS</strong>
+    </td>
+    <!-- OCI -->
+    <td align="center" height="121" width="121">
+      <a href="https://www.oracle.com/cloud/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/oracle" alt="OCI" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>OCI</strong>
+    </td>
+    <!-- AI/ML -->
+    <td align="center" height="121" width="121">
+      <a href="https://openai.com/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/openai" alt="AI/ML" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>AI/ML</strong>
+    </td>
+    <!-- Python -->
+    <td align="center" height="121" width="121">
+      <a href="https://www.python.org/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/python" alt="Python" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>Python</strong>
+    </td>
+    <!-- Flask -->
+    <td align="center" height="121" width="121">
+      <a href="https://flask.palletsprojects.com/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>Flask</strong>
+    </td>
+    <!-- Quarkus -->
+    <td align="center" height="121" width="121">
+      <a href="https://quarkus.io/" rel="nofollow">
+        <img src="https://cdn.simpleicons.org/quarkus" alt="Quarkus" width="48" height="48" style="max-width: 100%;">
+      </a>
+      <br><strong>Quarkus</strong>
+    </td>
+  </tr>
 </tbody>
 </table>
 <hr>
