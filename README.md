@@ -120,7 +120,7 @@
     <!-- AWS -->
     <td align="center" height="121" width="121">
       <a href="https://aws.amazon.com/" rel="nofollow">
-        <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="48" height="48" style="max-width: 100%;">
+        <img src="https://cdn.simpleicons.org/awslambda" alt="AWS" width="48" height="48" style="max-width: 100%;">
       </a>
       <br><strong>AWS</strong>
     </td>
