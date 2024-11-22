@@ -33,7 +33,7 @@
       <br><strong>Javascript</strong>
     </td>
     <td align="center" height="121" width="121">
-      <a href="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" rel="nofollow"><img src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" width="48" height="48" alt="TypeScript" style="max-width: 100%;"></a>
+      <a href="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" rel="nofollow"><img src="[https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw2gQ3IJJHt1gT6ZgJ5J_bfG&ust=1732327938807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC5vc3u7okDFQAAAAAdAAAAABAE)" width="48" height="48" alt="TypeScript" style="max-width: 100%;"></a>
       <br><strong>TypeScript</strong>
     </td>
       <td align="center" height="121" width="121">
